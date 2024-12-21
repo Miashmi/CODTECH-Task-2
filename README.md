@@ -15,6 +15,8 @@
 ## **Overview of the Project**  
 
 ### **Project:** Chat Application Using WebSockets  
+![image](https://github.com/user-attachments/assets/c49cbdfc-7f64-4b1c-99d9-a92e37911089)
+
 
 **Objective**  
 The goal of this project is to create a real-time chat application leveraging WebSocket technology. The application facilitates instant communication between multiple users by maintaining persistent connections for seamless data exchange.  
